@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "pacman",
+    "title": "Pacman",
+    "url": "https://macek.github.io/google_pacman/",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "category": "Classic"
+  },
+  {
+    "id": "snake",
+    "title": "Google Snake",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "category": "Classic"
+  },
+  {
+    "id": "flappybird",
+    "title": "Flappy Bird",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Classic"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "url": "https://slopegame.online/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "category": "Action"
+  }
+]
